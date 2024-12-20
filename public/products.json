@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "category": "Fitness Equipment",
+      "title": "Tapis de Yoga",
+      "price": "250",
+      "thumbnail": "/assets/images/Tapis.jpg",
+      "description": "Tapis de yoga antidérapant et confortable, idéal pour la méditation et les exercices physiques."
+    },
+    {
+      "id": 2,
+      "category": "Fitness Equipment",
+      "title": "Haltères Réglables",
+      "price": "1200",
+      "thumbnail": "/assets/images/Haltères.jpg",
+      "description": "Set d'haltères réglables avec différents poids pour vos entraînements à domicile."
+    },
+    {
+      "id": 3,
+      "category": "Sportswear",
+      "title": "Chaussures de Course Nike",
+      "price": "850",
+      "thumbnail": "/assets/images/Chaussure Nike.jpg",
+      "description": "Chaussures de course légères et confortables, idéales pour les marathons et les entraînements."
+    },
+    {
+      "id": 4,
+      "category": "Sportswear",
+      "title": "T-shirt Respirant",
+      "price": "150",
+      "thumbnail": "/assets/images/T-shirt Respirant.jpg",
+      "description": "T-shirt léger et respirant conçu pour les activités sportives intenses."
+    },
+    {
+      "id": 5,
+      "category": "Accessories",
+      "title": "Montre Connectée de Sport",
+      "price": "1800",
+      "thumbnail": "/assets/images/Montre.jpg",
+      "description": "Montre connectée avec suivi des activités, fréquence cardiaque et notifications."
+    },
+    {
+      "id": 6,
+      "category": "Accessories",
+      "title": "Sac de Sport",
+      "price": "400",
+      "thumbnail": "/assets/images/Sac de Sport.jpg",
+      "description": "Sac de sport spacieux et résistant, parfait pour transporter vos équipements."
+    },
+    {
+      "id": 7,
+      "category": "Outdoor",
+      "title": "Vélo de Montagne",
+      "price": "5500",
+      "thumbnail": "/assets/images/Vélo.jpg",
+      "description": "Vélo de montagne robuste et performant pour explorer les sentiers."
+    },
+    {
+      "id": 8,
+      "category": "Outdoor",
+      "title": "Raquette de Tennis",
+      "price": "750",
+      "thumbnail": "/assets/images/Raquette.jpg",
+      "description": "Raquette de tennis légère et durable, adaptée aux débutants et professionnels."
+    },
+    {
+      "id": 9,
+      "category": "Team Sports",
+      "title": "Ballon de Football",
+      "price": "200",
+      "thumbnail": "/assets/images/molten.jpg",
+      "description": "Ballon de football de qualité professionnelle pour les matchs et les entraînements."
+    },
+    {
+      "id": 10,
+      "category": "Team Sports",
+      "title": "Gants de Gardien",
+      "price": "350",
+      "thumbnail": "/assets/images/Gants.jpg",
+      "description": "Gants de gardien avec grip amélioré pour une meilleure prise de balle."
+    }
+  ]
+  
